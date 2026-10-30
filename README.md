@@ -1,0 +1,2 @@
+# playwrightwithMCP
+playwright
